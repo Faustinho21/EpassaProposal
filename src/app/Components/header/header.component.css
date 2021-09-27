@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.container-img{
+  flex-direction: column;
+  padding: 0.6em;
+ 
+}
+.d-flex{
+  width: 30em;
+  justify-content: space-around;
+  
+}
+.text{
+  
+  font-family: 'Kanit', sans-serif;
+}
+
+.text-mail{
+  
+  font-family: 'Kanit', sans-serif;
+}
+.navbar-brand{
+  font-family: 'Kanit', sans-serif;
+}
+#container-segundo{
+  justify-content: space-around;
+}
+.navbar-default{
+  background-color: rgb(186, 131, 238);
+}
+.list-primera li{
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Righteous', cursive;
+  padding: 5px 5px;
+  font-size: 20px;
+}
+
+.container-div-aparcamientos{
+  background-color: rgb(186, 131, 238);
+}
